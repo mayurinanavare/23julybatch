@@ -6,7 +6,7 @@ public class ascsort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a[]= {30,40,50,10,60,78,56};
+		int a[]= {70,40,50,10,60,78,56};
 		System.out.println("-----print all array-------");
 		for(int i=0;i<=a.length-1;i++)
 		{
